@@ -1,7 +1,7 @@
 # README
 
 ## Overview
-This project captures video from your webcam, detects faces using MediaPipe, and streams the processed video through a virtual camera using `pyvirtualcam`. The script blurs all but the largest detected face.
+This project captures video from your webcam, detects faces using MediaPipe, and streams the processed video through a virtual camera using `pyvirtualcam`. The script blurs all but the largest detected face. Use obs virtual cam to record.
 
 ## Requirements
 - Python 3.x
